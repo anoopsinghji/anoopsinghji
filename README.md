@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anoopsinghji&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="anoopsinghji" />
+</p>
+
 <br>
 
 <p align="center">
@@ -19,6 +23,9 @@
   <a href="https://github.com/anoopsinghji">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anoopsinghji" height="30" width="40" />
   </a>
+  <!-- <a href="mailto:bfcroay@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="anoop email" height="30" width="40" />
+  </a> -->
 </p>
 
 <br>
@@ -90,14 +97,6 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anoopsinghji&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="anoopsinghji" />
-</p>
-
-<br>
-
 ## 📌 Pinned Repositories
 
 ### 🔥 Project Submission & Judging System
@@ -127,7 +126,7 @@ Interactive learning platform with gamification and AI chatbot
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/anoopsinghji">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" altGitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
