@@ -41,7 +41,7 @@
 
 <br>
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills 
 
 ### Frontend Development
 <p align="left">
