@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Anoop Singh</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00ADB5&center=true&vCenter=true&width=600&height=80&lines=Hi+👋+I'm+Anoop+Singh;Full+Stack+Developer+from+India" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/anoopsinghji">
-    <img src="https://komarev.com/ghpvc/?username=anoopsinghji&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=anoopsinghji&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   </a>
   <a href="https://github.com/anoopsinghji?tab=followers">
-    <img src="https://img.shields.io/github/followers/anoopsinghji?label=Followers&style=social" alt="followers">
+    <img src="https://img.shields.io/github/followers/anoopsinghji?label=Followers&style=for-the-badge&logo=github" alt="followers">
+  </a>
+  <a href="https://leetcode.com/u/anoopsinghji/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
 </p>
 
@@ -17,117 +21,153 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anoopsinghji">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoop-singh" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/anoopsinghji" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoop-singh" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anoopsinghji">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anoopsinghji" height="30" width="40" />
-  </a>
-  <!-- <a href="mailto:bfcroay@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="anoop email" height="30" width="40" />
-  </a> -->
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anoopsinghji" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/anoopsinghji/">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Advanced Angular & Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Angular, Ionic, Node.js, MongoDB**
-- 📫 How to reach me: **bfcroay@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code**
+- 🔭 **Currently working on:** Full Stack Web Applications
+- 🌱 **Currently learning:** Advanced Angular & Cloud Technologies
+- 👯 **Looking to collaborate on:** Open Source Projects
+- 💬 **Ask me about:** Angular, Ionic, Node.js, MongoDB
+- 📫 **How to reach me:** bfcroay@gmail.com
+- ⚡ **Fun fact:** I turn coffee into code ☕ → 💻
 
 <br>
 
-## 🛠️ Technical Skills 
+## 🛠️  Technical Skills & Tools
 
-### Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>
-</p>
-
-### Backend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</p>
-
-### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anoopsinghji&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="anoopsinghji" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopsinghji&theme=radical" alt="anoopsinghji" width="48%" />
+</p> -->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anoopsinghji&show_icons=true&locale=en&theme=radical" alt="anoopsinghji" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anoopsinghji&theme=radical" alt="anoopsinghji" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoopsinghji&show_icons=true&locale=en&layout=compact&theme=radical" alt="anoopsinghji" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopsinghji&layout=compact&theme=radical" alt="anoopsinghji" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/anoopsinghji?theme=dark&font=Karma" alt="LeetCode Stats" width="48%" />
 </p>
 
 <br>
 
-## 📌 Pinned Repositories
+## 📌 Featured Projects
 
-### 🔥 Project Submission & Judging System
-A full-stack competition management platform built with Angular, Node.js, and MongoDB
+### 🏆 **Project Submission & Judging System**
+> Full-stack competition management platform
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anoopsinghji&repo=Project-Submission-System-&theme=radical)](https://github.com/anoopsinghji/Project-Submission-System-)
+[![Project Submission System](https://github-readme-stats.vercel.app/api/pin/?username=anoopsinghji&repo=Project-Submission-System-&theme=radical)](https://github.com/anoopsinghji/Project-Submission-System-)
 
-### 📱 Recipe Discovery Mobile App
-Cross-platform mobile app for recipe discovery using Ionic Angular and TheMealDB API
+### 📱 **Recipe Discovery Mobile App**
+> Cross-platform recipe app with Ionic Angular
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anoopsinghji&repo=recipe-discovery-app&theme=radical)](https://github.com/anoopsinghji/recipe-discovery-app)
-
-### 🎓 E-Learning Platform
-Interactive learning platform with gamification and AI chatbot
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anoopsinghji&repo=E-learning-website-with-gamifications-and-AlChabot-&theme=radical)](https://github.com/anoopsinghji/E-learning-website-with-gamifications-and-AlChabot-)
-
+[![Recipe Discovery App](https://github-readme-stats.vercel.app/api/pin/?username=anoopsinghji&repo=recipe-discovery-app&theme=radical)](https://github.com/anoopsinghji/recipe-discovery-app)
 <br>
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/anoopsinghji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:bfcroay@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/anoopsinghji">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/anoopsinghji/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="mailto:bfcroay@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anoopsinghji&theme=radical" alt="anoopsinghji" width="100%" />
+</p>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anoopsinghji&theme=onedark&no-frame=true&row=2&column=4" alt="anoopsinghji" />
+</p>
+
+<br>
+
+<div align="center">
+  
+  ### ❤️ Thanks for visiting my profile!
+  
+  
+  <p>Last Updated: November 2023</p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-100%25-brightgreen" />
+    <img src="https://img.shields.io/badge/Coffee-Consumed-important" />
+    <img src="https://img.shields.io/badge/Code-Quality-A+" />
+  </p>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
+</p>
