@@ -45,7 +45,7 @@
 
 <br>
 
-## 🛠️  Technical Skills & Tools
+## 🛠️ Technologies & Tools
 
 <table>
   <tr>
@@ -94,14 +94,32 @@
 
 ## 📊 GitHub & LeetCode Stats
 
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <!-- LeetCode Badges Grid -->
+  <a href="https://leetcode.com/u/anoopsinghji/" target="_blank">
+    <img src="https://badges.peiyuan.ch/leetcode/anoopsinghji/solved?style=flat&logo=leetcode&logoColor=white&color=00ADB5" alt="Solved" />
+    <img src="https://badges.peiyuan.ch/leetcode/anoopsinghji/solved?style=flat&logo=leetcode&logoColor=white&color=00ADB5&difficulty=hard" alt="Hard" />
+    <img src="https://badges.peiyuan.ch/leetcode/anoopsinghji/solved?style=flat&logo=leetcode&logoColor=white&color=00ADB5&difficulty=medium" alt="Medium" />
+    <img src="https://badges.peiyuan.ch/leetcode/anoopsinghji/solved?style=flat&logo=leetcode&logoColor=white&color=00ADB5&difficulty=easy" alt="Easy" />
+    <img src="https://badges.peiyuan.ch/leetcode/anoopsinghji/ranking?style=flat&logo=leetcode&logoColor=white&color=00ADB5" alt="Ranking" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Detailed LeetCode Card -->
+  <img src="https://leetcard.jacoblin.cool/anoopsinghji?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode Detailed Stats" width="60%" />
+</p>
+
+### 📈 GitHub Stats
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anoopsinghji&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="anoopsinghji" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopsinghji&theme=radical" alt="anoopsinghji" width="48%" />
 </p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopsinghji&layout=compact&theme=radical" alt="anoopsinghji" width="48%" />
-  <img src="https://leetcard.jacoblin.cool/anoopsinghji?theme=dark&font=Karma" alt="LeetCode Stats" width="48%" />
 </p>
 
 <br>
@@ -117,10 +135,9 @@
 > Cross-platform recipe app with Ionic Angular
 
 [![Recipe Discovery App](https://github-readme-stats.vercel.app/api/pin/?username=anoopsinghji&repo=recipe-discovery-app&theme=radical)](https://github.com/anoopsinghji/recipe-discovery-app)
-<br>
+
 
 ## 📫 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/anoopsinghji" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -134,8 +151,10 @@
   <a href="mailto:bfcroay@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://twitter.com/anoopsinghji" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
-
 <br>
 
 <p align="center">
@@ -152,18 +171,26 @@
 
 <br>
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoopsinghji&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
+
+<br>
+
 <div align="center">
   
   ### ❤️ Thanks for visiting my profile!
-  
-  
-  <p>Last Updated: November 2023</p>
-  
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-100%25-brightgreen" />
-    <img src="https://img.shields.io/badge/Coffee-Consumed-important" />
-    <img src="https://img.shields.io/badge/Code-Quality-A+" />
+    <img src="https://img.shields.io/badge/Code-100%25-blue" />
+    <img src="https://img.shields.io/badge/Coffee-Powered-important" />
+    <img src="https://img.shields.io/badge/Build-Passing-success" />
+    <img src="https://img.shields.io/badge/LeetCode-Coder-ffa116" />
+    <img src="https://img.shields.io/badge/Full_Stack-Developer-00ADB5" />
   </p>
+  
+  <p>Last Updated: November 2025</p>
 </div>
 
 ---
