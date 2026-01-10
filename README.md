@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anoopsinghji&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="anoopsinghji" />
-</p>
+</p> -->
 
 <br>
 
