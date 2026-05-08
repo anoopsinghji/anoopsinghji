@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,50:7B2FBE,100:FF6B6B&height=220&section=header&text=Anoop%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Angular%20%7C%20Node.js%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=e0e0e0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,50:7B2FBE,100:FF6B6B&height=220&section=header&text=Anoop%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Angular%20%7C%20Node.js%20%7C%20Gen%20AI&descAlignY=58&descSize=18&descColor=e0e0e0" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🚀+Building+Full+Stack+Web+Applications;⚡+Angular+%7C+Ionic+%7C+Node.js+%7C+MongoDB;💡+Open+Source+Contributor+%26+Problem+Solver;🎯+Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
@@ -51,11 +51,10 @@ const anoop = {
   name:       "Anoop Singh",
   location:   "India 🇮🇳",
   role:       "Full Stack Developer",
-  education:  "B.Tech / Computer Science",
-  currentFocus: ["Advanced Angular", "Cloud Technologies", "System Design"],
+  education:  "Bachelor in Information and Technology",
+  currentFocus: ["Advanced Angular & ReactJs", "GenAI" "Cloud Technologies", "System Design"],
   stack:      ["Angular", "Ionic", "Node.js", "MongoDB", "TypeScript"],
   hobbies:    ["Solving LeetCode", "Building Apps", "Open Source"],
-  funFact:    "I turn ☕ coffee into 💻 code — and I'm dangerously good at it.",
   openTo:     ["Internships", "Collaborations", "Open Source Projects"],
   contact:    "bfcroay@gmail.com"
 };
@@ -180,22 +179,6 @@ const anoop = {
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anoopsinghji/anoopsinghji/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anoopsinghji/anoopsinghji/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anoopsinghji/anoopsinghji/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## 📊 Profile Summary
 
 <div align="center">
@@ -210,7 +193,7 @@ const anoop = {
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Quote of the Day
 
 <div align="center">
 
@@ -244,30 +227,3 @@ const anoop = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FBE,100:00ADB5&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20my%20work!" />
 
 </div>
-
----
-
-<!-- Snake animation setup — add this GitHub Action to your repo:
-Create file: .github/workflows/snake.yml
-
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: anoopsinghji
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
